@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" fill="#1e3a8a" stroke="#f59e0b" stroke-width="2"/>
+  
+  <!-- Palm Tree and House Icon -->
+  <g transform="translate(32, 32)">
+    <!-- Palm Tree Trunk -->
+    <rect x="-1.5" y="2" width="3" height="18" fill="#f59e0b" rx="1.5"/>
+    
+    <!-- Palm Fronds -->
+    <path d="M-12,-15 Q-15,-18 -18,-15 Q-15,-12 -12,-14 Q-8,-12 -5,-15 Q-8,-18 -12,-15 Z" fill="#f59e0b"/>
+    <path d="M5,-15 Q8,-18 12,-15 Q8,-12 5,-14 Q2,-12 -2,-15 Q2,-18 5,-15 Z" fill="#f59e0b"/>
+    <path d="M-6,-18 Q-3,-21 0,-20 Q3,-21 6,-18 Q3,-15 0,-16 Q-3,-15 -6,-18 Z" fill="#f59e0b"/>
+    
+    <!-- Simple House -->
+    <path d="M8,5 L18,5 L18,15 L8,15 Z" fill="#f59e0b" opacity="0.9"/>
+    <path d="M6,5 L20,5 L13,-3 Z" fill="#f59e0b"/>
+    <rect x="11" y="8" width="2" height="7" fill="#1e3a8a"/>
+    <rect x="15" y="7" width="2" height="2" fill="#1e3a8a"/>
+  </g>
+</svg>
